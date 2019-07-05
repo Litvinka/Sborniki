@@ -1,0 +1,94 @@
+h5{
+    font-size:18px;
+}
+h3{
+    text-align:center;
+}
+nav{
+    margin-bottom: 70px;
+}
+nav .dropdown-menu{
+    right:0px;
+    left: unset;
+}
+.nav.navbar-nav>li>a{
+    color:white;
+}
+
+p.p-error{
+    margin: 5px 0px;
+    color: red;
+    font-size: 14px;
+}
+
+button.user-btn, button.user-btn:hover{
+    color:white;
+}
+
+a.a-pg-block{
+    background-color: #f0f0f0;
+    opacity: 0.6;
+}
+.pagination a.a-pg-active{
+    background-color: #555555;
+    color: white;
+    cursor: default;
+}
+.pagination{
+    margin-top:35px;
+}
+
+.nav.navbar-nav.nav-right>li{
+    padding:0px 10px;
+}
+
+[type=search] {
+    padding: 6px;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+}
+
+#search-form{
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+footer{
+    background-color: #007bff;
+    color: white;
+    margin-top: 80px;
+    padding: 20px;
+}
+
+p.p-copy{
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.one-pdf{
+    align-items: center;
+}
+
+.row-user-info h5{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.one-pdf h5{
+    margin-bottom: 0px;
+}
+
+.pdf-number{
+    text-align: center;
+}
+
+.pdf-download{
+    text-align: center;
+}
+
+.footer-fixed{
+    position:fixed;
+    bottom:0px;
+    left:0px;
+    right:0px;
+}
